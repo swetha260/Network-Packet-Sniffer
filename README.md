@@ -96,7 +96,7 @@ We welcome contributions to improve Network Packet Sniffer. To contribute, follo
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.TXT) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ```
 
